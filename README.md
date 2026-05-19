@@ -12,6 +12,10 @@ persistence). Pairs with [`debug-bar`](https://github.com/NadeemIqbal/debug-bar)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Build](https://github.com/NadeemIqbal/flag-bar/actions/workflows/build.yml/badge.svg)](https://github.com/NadeemIqbal/flag-bar/actions/workflows/build.yml)
 
+<p align="center">
+  <img src="docs/hero.gif" width="320" alt="FlagBar drawer on iOS — toggling new_checkout flag flips the host app between new/old checkout, picking Dark theme overrides, then Reset all reverts everything to remote/default values" />
+</p>
+
 ## Why
 
 Most CMP teams that want feature flags today have 3 bad choices:
