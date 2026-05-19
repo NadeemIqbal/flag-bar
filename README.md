@@ -18,7 +18,7 @@ persistence). Pairs with [`debug-bar`](https://github.com/NadeemIqbal/debug-bar)
 
 ## Why
 
-Most CMP teams that want feature flags today have 3 bad choices:
+Most CMP teams that want feature flags today have 3 choices:
 
 | Existing | Problem |
 |---|---|
